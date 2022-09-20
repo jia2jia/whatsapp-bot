@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/jia2jia/whatsapp-bot",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -39,9 +39,9 @@
             "value":""
         },
         "STICKER_DATA": {
-            "description": "Name of stickers created using bot. Can also split using ;",
+            "description": "jia. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"jia"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"989393921419"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
